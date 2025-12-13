@@ -21,13 +21,3 @@ Data Cleaning & Preprocessing
 Exploratory Data Analysis (EDA)
 Sentiment Analysis & NLP
 Git & Version Control
-
-### Featured Projects
- Sales Performance Dashboard-
-Built an interactive Tableau dashboard analyzing sales trends across regions, resulting in 15% improvement in strategic planning.
- 
- Customer Sentiment Analysis-
-Analyzed 10K+ product reviews using Python and NLP techniques to identify key drivers of customer satisfaction.
-
-Financial Data Analysis-
-Performed time series analysis on stock market data to identify investment patterns and predict trends.
