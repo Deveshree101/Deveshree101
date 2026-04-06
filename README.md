@@ -8,4 +8,4 @@ A Data Analyst using data and curiosity to understand business problems better. 
 
  **Visualization & BI**: PowerBI
 
-**Data & Analytics**: Excel (Advanced- VLOOKUP, Pivot Tables, VBA),Jupyter Notebooks,Statistical Analysis & A/B Testing
+**Data & Analytics**: Excel (Advanced- VLOOKUP, Pivot Tables, VBA),Jupyter Notebooks,Statistical Analysis & A/B Testing)
