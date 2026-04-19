@@ -3,9 +3,6 @@ A Data Analyst using data and curiosity to understand business problems better. 
 
  ### Technical Skills
  **Databases**: SQL (MySQL, PostgreSQL, SQLite)
- 
- **Languages & Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-
+  **Languages & Libraries**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
  **Visualization & BI**: PowerBI
-
-**Data & Analytics**: Excel (Advanced- VLOOKUP, Pivot Tables, VBA),Jupyter Notebooks,Statistical Analysis & A/B Testing)
+**Data & Analytics**:Advanced Excel,Jupyter Notebooks,Statistical Analysis & A/B Testing)
