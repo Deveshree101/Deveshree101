@@ -1,3 +1,3 @@
-## Hi there, I am Deveshree👋
+## Welcome to my github profile👋
 A Data Analyst using data and curiosity to understand business problems better. Here I showcase my skills through interesting projects.
 
